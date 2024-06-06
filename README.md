@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">👨‍🎓 Graduated:<br>2021 with a Bachelor's degree in Software Engineering from VolSU.<br>2024 a Master's degree at ITMO University in the field of Infocommunications and Digital Media.<br>📚 I'm currently learning DevOps && DevSecOps</p>
+👨‍🎓 Graduated: 
+- 2021 with a Bachelor's degree in Software Engineering from VolSU. 
+- 2024 a Master's degree at ITMO University in the field of Infocommunications and Digital Media.
+  
+📚 I'm currently learning DevOps && DevSecOps
 
 ###
 
